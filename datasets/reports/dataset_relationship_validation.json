@@ -1,0 +1,7 @@
+{
+    "products_rows": 10,
+    "perishable_inventory_rows": 1800,
+    "inventory_batches_rows": 2000,
+    "perishable_product_ids_not_found": 0,
+    "batch_product_ids_not_found": 0
+}

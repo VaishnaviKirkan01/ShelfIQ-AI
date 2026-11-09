@@ -1,0 +1,1 @@
+product_id,date,category,opening_stock,units_received,units_sold,unit_price,discount_pct,days_to_expiry,temperature_c,waste_units,stockout_flag

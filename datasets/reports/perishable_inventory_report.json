@@ -1,0 +1,7 @@
+{
+    "original_file": "perishable_inventory.csv",
+    "clean_rows": 1800,
+    "invalid_rows": 0,
+    "duplicate_product_date_rows": 0,
+    "cleaned_file": "D:\\DATA SCIENCE COURSE\\ML\\ML_Projects\\WasteWise-AI\\datasets\\processed\\perishable_inventory_clean.csv"
+}
